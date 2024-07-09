@@ -1,0 +1,6 @@
+# Ignore virtual environment folders
+/.venv/
+/.conda/
+
+# Ignore Models.ipynb folder
+L4-7092024/Models.ipynb/
